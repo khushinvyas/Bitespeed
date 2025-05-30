@@ -2,6 +2,7 @@
 
 A contact identity resolution service for Bitespeed, built with Node.js, TypeScript, Express, and Prisma (PostgreSQL).
 
+# Deployment URL : `https://bitespeed-8orq.onrender.com`
 ## Features
 - **/identify**: Resolve and link contacts by email and/or phone number
 
